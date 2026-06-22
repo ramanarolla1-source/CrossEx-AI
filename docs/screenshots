@@ -1,1 +1,17 @@
+docs/
+└── screenshots/
+│
+├── 01-cover.png
+│
+├── 02-witness-input.png
+│
+├── 03-fact-extraction.png
+│
+├── 04-contradiction-analysis.png
+│
+├── 05-question-generation.png
+│
+├── 06-lawyer-review.png
+│
+└── 07-workflow-overview.png
 
