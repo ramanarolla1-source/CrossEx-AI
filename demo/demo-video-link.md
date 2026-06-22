@@ -36,9 +36,9 @@ The application is built as an Anna-native workflow that combines AI-assisted an
 
 Watch the complete project demonstration:
 
-**Video Link:**
 
-[PASTE_YOUTUBE_VIDEO_LINK_HERE]
+https://youtu.be/zLtoEPS3K7o
+
 
 Video Duration: Approximately 5 Minutes
 
@@ -60,7 +60,7 @@ Project presentation:
 
 **Slide Deck Link:**
 
-[PASTE_SLIDE_DECK_LINK_HERE]
+https://docs.google.com/presentation/d/1Q_UETzOMlH9KvOqQTn0GoT9AtMhE8yaomHlneeVun6c/edit?usp=sharing
 
 Topics Covered:
 
