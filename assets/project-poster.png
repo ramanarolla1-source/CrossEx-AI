@@ -1,1 +1,71 @@
+CROSSEX AI
+
+From Witness Statements to
+Cross-Examination Questions in Minutes
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+⚖ AI-Native Litigation Workflow
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Witness Statement
+↓
+Fact Extraction
+↓
+Timeline Analysis
+↓
+Contradiction Detection
+↓
+Question Generation
+↓
+Lawyer Review
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Key Features
+
+✓ Fact Extraction
+
+✓ Timeline Analysis
+
+✓ Contradiction Detection
+
+✓ Cross-Examination Question Generation
+
+✓ Human-in-the-Loop Review
+
+✓ Exportable Litigation Artifacts
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Example
+
+Witness Statement:
+
+"I arrived at the intersection at 8:00 PM."
+
+Later:
+
+"I reached the location around 7:45 PM."
+
+Detected Issue:
+
+Timeline Inconsistency
+
+Generated Question:
+
+"Why did you provide two different arrival times?"
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Built on Anna
+
+App UI • Tool Invocation • Persistent State • Human Review
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Analyze Faster.
+Question Smarter.
+Litigate Better.
 
