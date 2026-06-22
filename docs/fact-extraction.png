@@ -1,1 +1,93 @@
+FACT EXTRACTION
 
+CrossEx AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Original Witness Statement
+
+"I was driving home on May 10.
+
+I arrived at the intersection at
+approximately 8:00 PM.
+
+I observed a collision involving
+two vehicles.
+
+I remained at the scene and spoke
+with one of the drivers."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Extracted Facts
+
+Date
+
+✓ May 10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Time
+
+✓ 8:00 PM
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Location
+
+✓ Intersection
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Events
+
+✓ Arrival at Intersection
+
+✓ Vehicle Collision
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Actions
+
+✓ Witness Remained at Scene
+
+✓ Witness Spoke with Driver
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Observations
+
+✓ Collision Involving Two Vehicles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Extraction Confidence
+
+HIGH
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CrossEx AI
+
+Transforming Unstructured Statements
+Into Structured Litigation Intelligence
+┌──────────────────────────────┐
+│ FACT EXTRACTION              │
+├──────────────────────────────┤
+│ Original Statement           │
+│                              │
+│ Witness narrative text       │
+│                              │
+├──────────────────────────────┤
+│ Extracted Facts              │
+│                              │
+│ Date                         │
+│ Time                         │
+│ Location                     │
+│ Events                       │
+│ Actions                      │
+│ Observations                 │
+│                              │
+├──────────────────────────────┤
+│ Confidence: HIGH             │
+└──────────────────────────────┘
