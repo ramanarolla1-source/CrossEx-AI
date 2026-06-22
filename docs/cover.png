@@ -76,4 +76,37 @@ Question Smarter.
 Litigate Better.
 
 Anna AI-Native App Hackathon 2026
-
+┌────────────────────────────────────┐
+│                                    │
+│           CrossEx AI               │
+│                                    │
+│  From Witness Statements to        │
+│  Cross-Examination Questions       │
+│                                    │
+├────────────────────────────────────┤
+│                                    │
+│      Workflow Diagram              │
+│                                    │
+│ Witness Statement                  │
+│          ↓                         │
+│ Fact Extraction                    │
+│          ↓                         │
+│ Timeline Analysis                  │
+│          ↓                         │
+│ Contradiction Detection            │
+│          ↓                         │
+│ Question Generation                │
+│          ↓                         │
+│ Lawyer Review                      │
+│                                    │
+├────────────────────────────────────┤
+│                                    │
+│      Contradiction Example         │
+│                                    │
+├────────────────────────────────────┤
+│                                    │
+│ Analyze Faster                     │
+│ Question Smarter                   │
+│ Litigate Better                    │
+│                                    │
+└────────────────────────────────────┘
