@@ -1,1 +1,55 @@
+{
+"name": "CrossEx AI",
+"version": "1.0.0",
+"description": "AI-native litigation workflow that transforms witness statements into fact extraction, contradiction analysis, and cross-examination questions with lawyer review.",
+"author": "CrossEx AI Team",
+"license": "MIT",
+
+"app": {
+"id": "crossex-ai",
+"title": "CrossEx AI",
+"tagline": "From Witness Statements to Cross-Examination Questions in Minutes",
+"category": "LegalTech",
+"icon": "assets/logo.png"
+},
+
+"views": [
+{
+"id": "main",
+"title": "CrossEx AI Workspace",
+"entry": "ui/index.html"
+}
+],
+
+"tools": [
+{
+"id": "cross-ex-tool",
+"name": "CrossEx Tool",
+"description": "Extract facts, build timelines, detect contradictions, and generate cross-examination questions."
+}
+],
+
+"skills": [
+{
+"id": "cross-ex-skill",
+"name": "CrossEx AI Skill",
+"description": "Litigation workflow orchestration for witness statement analysis and cross-examination preparation."
+}
+],
+
+"permissions": [
+"storage",
+"tools.invoke"
+],
+
+"storage": {
+"enabled": true
+},
+
+"metadata": {
+"hackathon": "Anna AI-Native App Hackathon 2026",
+"domain": "Legal Technology",
+"workflow": "Witness Analysis and Cross-Examination Preparation"
+}
+}
 
