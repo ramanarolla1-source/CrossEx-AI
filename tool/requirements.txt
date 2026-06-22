@@ -1,1 +1,22 @@
+# CrossEx AI Requirements
+
+pytest>=8.0.0
+
+# Future NLP Expansion
+
+spacy>=3.8.0
+nltk>=3.9.0
+
+# Data Handling
+
+pandas>=2.2.0
+
+# API Support
+
+fastapi>=0.115.0
+uvicorn>=0.34.0
+
+# Environment Management
+
+python-dotenv>=1.0.1
 
