@@ -1,1 +1,54 @@
+{
+"name": "crossex-ai",
+"version": "1.0.0",
+"description": "AI-native litigation workflow for witness statement analysis, contradiction detection, and cross-examination question generation.",
+"author": "CrossEx AI Team",
+"license": "MIT",
+"private": true,
+
+"keywords": [
+"legaltech",
+"litigation",
+"cross-examination",
+"lawyers",
+"anna",
+"anna-app",
+"legal-ai",
+"witness-analysis",
+"contradiction-detection",
+"trial-preparation"
+],
+
+"scripts": {
+"start": "node app/ui/app.js",
+"dev": "node app/ui/app.js",
+"test": "pytest tests/",
+"lint": "echo "No linting configured"",
+"build": "echo "CrossEx AI build completed""
+},
+
+"repository": {
+"type": "git",
+"url": "https://github.com/YOUR_USERNAME/CrossEx-AI.git"
+},
+
+"bugs": {
+"url": "https://github.com/YOUR_USERNAME/CrossEx-AI/issues"
+},
+
+"homepage": "https://github.com/YOUR_USERNAME/CrossEx-AI",
+
+"dependencies": {
+"react": "^18.3.1",
+"react-dom": "^18.3.1"
+},
+
+"devDependencies": {
+"eslint": "^9.0.0"
+},
+
+"engines": {
+"node": ">=18.0.0"
+}
+}
 
