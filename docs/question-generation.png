@@ -1,1 +1,102 @@
+QUESTION GENERATION
 
+CrossEx AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Detected Issue
+
+Timeline Inconsistency
+
+Statement A
+
+"I arrived at the intersection
+at approximately 8:00 PM."
+
+Statement B
+
+"I reached the location
+around 7:45 PM."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Generated Cross-Examination Questions
+
+Fact Confirmation
+
+1. Can you confirm the exact time
+   you arrived at the intersection?
+
+2. How did you determine the time
+   of your arrival?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Timeline Verification
+
+3. What occurred immediately after
+   you arrived at the location?
+
+4. How much time elapsed between
+   your arrival and your observation
+   of the collision?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Contradiction-Focused Questions
+
+5. You previously stated that you
+   arrived at approximately 8:00 PM.
+
+Why did you later state that you
+reached the location around
+7:45 PM?
+
+6. Which of the two arrival times
+   do you believe is accurate?
+
+7. What explains the difference
+   between the two statements?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Lawyer Review
+
+✓ Edit Questions
+
+✓ Approve Questions
+
+✓ Export Question Set
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Output Status
+
+Ready For Review
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CrossEx AI
+
+Analyze Faster.
+Question Smarter.
+Litigate Better.
+┌──────────────────────────────┐
+│ QUESTION GENERATION          │
+├──────────────────────────────┤
+│ Detected Contradiction       │
+│                              │
+│ 8:00 PM vs 7:45 PM           │
+├──────────────────────────────┤
+│ Generated Questions          │
+│                              │
+│ Q1                           │
+│ Q2                           │
+│ Q3                           │
+│ Q4                           │
+│                              │
+├──────────────────────────────┤
+│ Lawyer Review                │
+│                              │
+│ Edit | Approve | Export      │
+└──────────────────────────────┘
