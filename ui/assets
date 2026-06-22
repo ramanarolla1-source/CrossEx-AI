@@ -1,1 +1,18 @@
+ui/assets/
+
+├── logo.png
+│
+├── hero-banner.png
+│
+├── workflow-diagram.png
+│
+├── witness-analysis.png
+│
+├── contradiction-detection.png
+│
+├── question-generation.png
+│
+├── lawyer-review.png
+│
+└── favicon.ico
 
